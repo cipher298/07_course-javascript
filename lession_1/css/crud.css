@@ -1,0 +1,25 @@
+.value-courses {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 30px;
+  }
+  
+  .value-courses .field-courses {
+    display: flex;
+    gap: 40px;
+  }
+  
+  li {
+    cursor: pointer;
+  }
+  
+  input {
+    width: 500px;
+  }
+  
+  textarea {
+    width: 500px;
+    height: 100px;
+  }
+  

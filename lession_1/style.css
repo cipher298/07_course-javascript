@@ -1,0 +1,44 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+/* Hero banner styles */
+.hero-banner {
+  /* Add your styles here */
+}
+
+/* About Us section styles */
+.about-us {
+  /* Add your styles here */
+}
+
+/* Feature Work section styles */
+.feature-work {
+  /* Add your styles here */
+}
+
+/* Reference section styles */
+.reference {
+  /* Add your styles here */
+}
+
+/* Blog section styles */
+.blog {
+  /* Add your styles here */
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
